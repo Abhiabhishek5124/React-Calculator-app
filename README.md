@@ -1,3 +1,4 @@
+![calculor](https://github.com/Abhiabhishek5124/React-Calculator-app/assets/78491711/28a6e7be-e00b-4c09-aa38-f26bb05639fe)
 
  Available Scripts
 
